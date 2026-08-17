@@ -27,5 +27,5 @@ I'm currently focused on growing as an **AI/ML Engineer **, where my journey inv
 
 For a quick response, DM me on [LinkedIn](https://linkedin.com/in/sivarajadurai-p-33904b252)
 
-For professional inquiries, reach out via email at [E-mail](shivsivarajadurai1024@outlook.com). 
+For professional inquiries, reach out via email at [shivsivarajadurai1024@outlook,com](shivsivarajadurai1024@outlook.com). 
 
