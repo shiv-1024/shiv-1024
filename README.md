@@ -9,7 +9,7 @@ I'm always learning, experimenting, and exploring new ideas in the world of AI.
 
 ## 🔭 Current Endeavors
 
-I'm currently focused on growing as an **AI/ML Engineer **, where my journey involves both building and learning. Here's what I'm currently focused on:
+I'm currently focused on growing as an AI/ML Engineer, where my journey involves both building and learning. Here's what I'm currently focused on:
 
 * Building and experimenting with **AI and Machine Learning projects**.
 * Exploring **Deep Learning, Computer Vision, NLP, and LLMs**.
